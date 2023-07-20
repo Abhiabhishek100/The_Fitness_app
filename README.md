@@ -1,5 +1,5 @@
-# React Fitness Application
+# It's Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+![React Fitness Application](https://www.freepik.com/free-photo/young-fitness-man-studio_8990574.htm#query=fitness&position=1&from_view=keyword&track=sph)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+
